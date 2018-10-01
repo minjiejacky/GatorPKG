@@ -6,4 +6,4 @@ This is a fancy R package
 devtools::install_github("minjiejacky/GatorPKG")
 
 ## example
-f(1,2)
+f(1,5)
